@@ -1,0 +1,17 @@
+{   
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "Webpack settings",
+  "main": "index.js",
+  "scripts": {
+  "dev": "webpack --mode=development",
+  "prod": "webpack --mode=production"
+},
+"keywords": [],
+"author": "<my.webpage057@gmail.com>",
+"license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
